@@ -1,0 +1,31 @@
+{
+  "name": "node-tests",
+  "version": "1.0.0",
+  "description": "Tests for node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DesperadoUA/node-tests.git"
+  },
+  "author": "Lazarev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DesperadoUA/node-tests/issues"
+  },
+  "homepage": "https://github.com/DesperadoUA/node-tests#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "html-entities": "^2.3.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.17.0",
+    "slugify": "^1.6.5"
+  }
+}
