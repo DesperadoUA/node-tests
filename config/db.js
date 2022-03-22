@@ -1,5 +1,5 @@
 const dbConfig = {
-    DB: 'node-tests',
+    DB: 'node-tests-2', 
     USER: 'root',
     PASSWORD: '',
     dialect: 'mysql',
