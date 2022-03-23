@@ -1,5 +1,4 @@
 /node_modules
 /.idea
 .env
-/config/index.js
 /config/db.js
